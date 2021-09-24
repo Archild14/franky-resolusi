@@ -1,6 +1,8 @@
 bahasa pemrograman
 
 -php
--jawascript
+-javascript
 -c#
 -phyton
+-ruby
+-go
